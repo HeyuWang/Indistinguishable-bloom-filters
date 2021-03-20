@@ -1,0 +1,41 @@
+the total loadtreetime tree time corresponding to 500 files is : 0.532640 seconds.
+average searching time corresponding to 500 files is 0.002592 seconds 
+ the total loadtreetime tree time corresponding to 500 files is : 0.537322 seconds.
+average searching time corresponding to 500 files is 0.002791 seconds 
+ the total loadtreetime tree time corresponding to 1000 files is : 1.076263 seconds.
+average searching time corresponding to 1000 files is 0.004162 seconds 
+ the total loadtreetime tree time corresponding to 1000 files is : 1.067023 seconds.
+average searching time corresponding to 1000 files is 0.004439 seconds 
+ the total loadtreetime tree time corresponding to 1500 files is : 1.672870 seconds.
+average searching time corresponding to 1500 files is 0.006290 seconds 
+ the total loadtreetime tree time corresponding to 1500 files is : 1.598809 seconds.
+average searching time corresponding to 1500 files is 0.005994 seconds 
+ the total loadtreetime tree time corresponding to 2000 files is : 2.148545 seconds.
+average searching time corresponding to 2000 files is 0.007486 seconds 
+ the total loadtreetime tree time corresponding to 2000 files is : 2.125736 seconds.
+average searching time corresponding to 2000 files is 0.007614 seconds 
+ the total loadtreetime tree time corresponding to 2500 files is : 2.688019 seconds.
+average searching time corresponding to 2500 files is 0.008901 seconds 
+ the total loadtreetime tree time corresponding to 2500 files is : 2.716201 seconds.
+average searching time corresponding to 2500 files is 0.008842 seconds 
+ the total loadtreetime tree time corresponding to 3000 files is : 3.235586 seconds.
+average searching time corresponding to 3000 files is 0.011439 seconds 
+ the total loadtreetime tree time corresponding to 3000 files is : 3.247927 seconds.
+average searching time corresponding to 3000 files is 0.011943 seconds 
+ the total loadtreetime tree time corresponding to 3500 files is : 3.786649 seconds.
+average searching time corresponding to 3500 files is 0.012419 seconds 
+ the total loadtreetime tree time corresponding to 3500 files is : 3.727149 seconds.
+average searching time corresponding to 3500 files is 0.012148 seconds 
+ the total loadtreetime tree time corresponding to 4000 files is : 4.428295 seconds.
+average searching time corresponding to 4000 files is 0.014818 seconds 
+ the total loadtreetime tree time corresponding to 4000 files is : 4.283558 seconds.
+average searching time corresponding to 4000 files is 0.013188 seconds 
+ the total loadtreetime tree time corresponding to 4500 files is : 4.871618 seconds.
+average searching time corresponding to 4500 files is 0.015120 seconds 
+ the total loadtreetime tree time corresponding to 4500 files is : 4.860237 seconds.
+average searching time corresponding to 4500 files is 0.015745 seconds 
+ the total loadtreetime tree time corresponding to 5000 files is : 5.374697 seconds.
+average searching time corresponding to 5000 files is 0.017919 seconds 
+ the total loadtreetime tree time corresponding to 5000 files is : 5.515330 seconds.
+average searching time corresponding to 5000 files is 0.018975 seconds 
+ 

@@ -1,0 +1,19 @@
+Usage:
+
+1. compile the project with command
+    make
+
+2. build the tree with command
+    ./a buildtree
+
+3. search the tree with command
+    ./a search
+
+suggestion:
+
+0. modify the MACRO NUMBEROFFILES in config.h according to your input numbers of files.
+
+1. modify the global variable--- dataitempath in dataitem.c according to your dataset position
+
+
+2. modify the treepath, NPlusOneKeys path and bftreesavedpath accordint to your specfication.

@@ -1,0 +1,4 @@
+average searching time corresponding to 500 files of 5 disjunctive multitrapdoor is 0.006686 seconds 
+ average searching time corresponding to 500 files of 10 disjunctive trapdoor is 0.020625 seconds 
+ average searching time corresponding to 500 files of 5 multitrapdoor is 0.000647 seconds 
+ 

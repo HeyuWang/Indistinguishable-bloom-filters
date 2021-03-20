@@ -1,0 +1,200 @@
+the total loadtreetime tree time corresponding to 500 files is : 0.534276 seconds.
+the total loadtreetime tree time corresponding to 500 files is : 0.534276 seconds.
+searching time of word[0]--Soufriere is 0.000171 seconds
+ searching time of word[1]--Department is 0.000930 seconds
+ searching time of word[2]--phylogeny is 0.001533 seconds
+ searching time of word[3]--shrinking is 0.000326 seconds
+ searching time of word[4]--monoclinic is 0.000183 seconds
+ average searching time  is 0.000629 seconds 
+ @@@@@@@@@@@############$$$$$$$$$$$woshihualidefenjiexian$$$$$$$$$$$############@@@@@@@@@@@
+
+the total loadtreetime tree time corresponding to 500 files is : 0.533040 seconds.
+the total loadtreetime tree time corresponding to 500 files is : 0.533040 seconds.
+searching time of word[0]--Soufriere is 0.000175 seconds
+ searching time of word[1]--Department is 0.000944 seconds
+ searching time of word[2]--phylogeny is 0.001538 seconds
+ searching time of word[3]--shrinking is 0.000309 seconds
+ searching time of word[4]--monoclinic is 0.000173 seconds
+ average searching time  is 0.000628 seconds 
+ @@@@@@@@@@@############$$$$$$$$$$$woshihualidefenjiexian$$$$$$$$$$$############@@@@@@@@@@@
+
+the total loadtreetime tree time corresponding to 1000 files is : 1.063739 seconds.
+the total loadtreetime tree time corresponding to 1000 files is : 1.063739 seconds.
+searching time of word[0]--Soufriere is 0.000202 seconds
+ searching time of word[1]--Department is 0.002813 seconds
+ searching time of word[2]--phylogeny is 0.002284 seconds
+ searching time of word[3]--shrinking is 0.000322 seconds
+ searching time of word[4]--monoclinic is 0.000243 seconds
+ average searching time  is 0.001173 seconds 
+ @@@@@@@@@@@############$$$$$$$$$$$woshihualidefenjiexian$$$$$$$$$$$############@@@@@@@@@@@
+
+the total loadtreetime tree time corresponding to 1000 files is : 1.078942 seconds.
+the total loadtreetime tree time corresponding to 1000 files is : 1.078942 seconds.
+searching time of word[0]--Soufriere is 0.000216 seconds
+ searching time of word[1]--Department is 0.003651 seconds
+ searching time of word[2]--phylogeny is 0.002394 seconds
+ searching time of word[3]--shrinking is 0.000301 seconds
+ searching time of word[4]--monoclinic is 0.000219 seconds
+ average searching time  is 0.001356 seconds 
+ @@@@@@@@@@@############$$$$$$$$$$$woshihualidefenjiexian$$$$$$$$$$$############@@@@@@@@@@@
+
+the total loadtreetime tree time corresponding to 1500 files is : 1.611890 seconds.
+the total loadtreetime tree time corresponding to 1500 files is : 1.611890 seconds.
+searching time of word[0]--Soufriere is 0.000492 seconds
+ searching time of word[1]--Department is 0.007996 seconds
+ searching time of word[2]--phylogeny is 0.003036 seconds
+ searching time of word[3]--shrinking is 0.000456 seconds
+ searching time of word[4]--monoclinic is 0.000230 seconds
+ average searching time  is 0.002442 seconds 
+ @@@@@@@@@@@############$$$$$$$$$$$woshihualidefenjiexian$$$$$$$$$$$############@@@@@@@@@@@
+
+the total loadtreetime tree time corresponding to 1500 files is : 1.588428 seconds.
+the total loadtreetime tree time corresponding to 1500 files is : 1.588428 seconds.
+searching time of word[0]--Soufriere is 0.000384 seconds
+ searching time of word[1]--Department is 0.006275 seconds
+ searching time of word[2]--phylogeny is 0.002539 seconds
+ searching time of word[3]--shrinking is 0.000345 seconds
+ searching time of word[4]--monoclinic is 0.000187 seconds
+ average searching time  is 0.001946 seconds 
+ @@@@@@@@@@@############$$$$$$$$$$$woshihualidefenjiexian$$$$$$$$$$$############@@@@@@@@@@@
+
+the total loadtreetime tree time corresponding to 2000 files is : 2.133731 seconds.
+the total loadtreetime tree time corresponding to 2000 files is : 2.133731 seconds.
+searching time of word[0]--Soufriere is 0.000497 seconds
+ searching time of word[1]--Department is 0.008730 seconds
+ searching time of word[2]--phylogeny is 0.002293 seconds
+ searching time of word[3]--shrinking is 0.000354 seconds
+ searching time of word[4]--monoclinic is 0.000209 seconds
+ average searching time  is 0.002417 seconds 
+ @@@@@@@@@@@############$$$$$$$$$$$woshihualidefenjiexian$$$$$$$$$$$############@@@@@@@@@@@
+
+the total loadtreetime tree time corresponding to 2000 files is : 2.152779 seconds.
+the total loadtreetime tree time corresponding to 2000 files is : 2.152779 seconds.
+searching time of word[0]--Soufriere is 0.000498 seconds
+ searching time of word[1]--Department is 0.008996 seconds
+ searching time of word[2]--phylogeny is 0.002279 seconds
+ searching time of word[3]--shrinking is 0.000358 seconds
+ searching time of word[4]--monoclinic is 0.000201 seconds
+ average searching time  is 0.002466 seconds 
+ @@@@@@@@@@@############$$$$$$$$$$$woshihualidefenjiexian$$$$$$$$$$$############@@@@@@@@@@@
+
+the total loadtreetime tree time corresponding to 2500 files is : 2.627901 seconds.
+the total loadtreetime tree time corresponding to 2500 files is : 2.627901 seconds.
+searching time of word[0]--Soufriere is 0.000380 seconds
+ searching time of word[1]--Department is 0.015060 seconds
+ searching time of word[2]--phylogeny is 0.003569 seconds
+ searching time of word[3]--shrinking is 0.000554 seconds
+ searching time of word[4]--monoclinic is 0.000208 seconds
+ average searching time  is 0.003954 seconds 
+ @@@@@@@@@@@############$$$$$$$$$$$woshihualidefenjiexian$$$$$$$$$$$############@@@@@@@@@@@
+
+the total loadtreetime tree time corresponding to 2500 files is : 2.661685 seconds.
+the total loadtreetime tree time corresponding to 2500 files is : 2.661685 seconds.
+searching time of word[0]--Soufriere is 0.000379 seconds
+ searching time of word[1]--Department is 0.013652 seconds
+ searching time of word[2]--phylogeny is 0.003574 seconds
+ searching time of word[3]--shrinking is 0.000562 seconds
+ searching time of word[4]--monoclinic is 0.000243 seconds
+ average searching time  is 0.003682 seconds 
+ @@@@@@@@@@@############$$$$$$$$$$$woshihualidefenjiexian$$$$$$$$$$$############@@@@@@@@@@@
+
+the total loadtreetime tree time corresponding to 3000 files is : 3.195636 seconds.
+the total loadtreetime tree time corresponding to 3000 files is : 3.195636 seconds.
+searching time of word[0]--Soufriere is 0.000366 seconds
+ searching time of word[1]--Department is 0.013508 seconds
+ searching time of word[2]--phylogeny is 0.004340 seconds
+ searching time of word[3]--shrinking is 0.000622 seconds
+ searching time of word[4]--monoclinic is 0.000199 seconds
+ average searching time  is 0.003807 seconds 
+ @@@@@@@@@@@############$$$$$$$$$$$woshihualidefenjiexian$$$$$$$$$$$############@@@@@@@@@@@
+
+the total loadtreetime tree time corresponding to 3000 files is : 3.193824 seconds.
+the total loadtreetime tree time corresponding to 3000 files is : 3.193824 seconds.
+searching time of word[0]--Soufriere is 0.000364 seconds
+ searching time of word[1]--Department is 0.013537 seconds
+ searching time of word[2]--phylogeny is 0.004166 seconds
+ searching time of word[3]--shrinking is 0.000602 seconds
+ searching time of word[4]--monoclinic is 0.000198 seconds
+ average searching time  is 0.003773 seconds 
+ @@@@@@@@@@@############$$$$$$$$$$$woshihualidefenjiexian$$$$$$$$$$$############@@@@@@@@@@@
+
+the total loadtreetime tree time corresponding to 3500 files is : 3.709692 seconds.
+the total loadtreetime tree time corresponding to 3500 files is : 3.709692 seconds.
+searching time of word[0]--Soufriere is 0.000421 seconds
+ searching time of word[1]--Department is 0.016230 seconds
+ searching time of word[2]--phylogeny is 0.004982 seconds
+ searching time of word[3]--shrinking is 0.000591 seconds
+ searching time of word[4]--monoclinic is 0.000267 seconds
+ average searching time  is 0.004498 seconds 
+ @@@@@@@@@@@############$$$$$$$$$$$woshihualidefenjiexian$$$$$$$$$$$############@@@@@@@@@@@
+
+the total loadtreetime tree time corresponding to 3500 files is : 3.731140 seconds.
+the total loadtreetime tree time corresponding to 3500 files is : 3.731140 seconds.
+searching time of word[0]--Soufriere is 0.000429 seconds
+ searching time of word[1]--Department is 0.016690 seconds
+ searching time of word[2]--phylogeny is 0.005293 seconds
+ searching time of word[3]--shrinking is 0.000673 seconds
+ searching time of word[4]--monoclinic is 0.000328 seconds
+ average searching time  is 0.004683 seconds 
+ @@@@@@@@@@@############$$$$$$$$$$$woshihualidefenjiexian$$$$$$$$$$$############@@@@@@@@@@@
+
+the total loadtreetime tree time corresponding to 4000 files is : 4.272498 seconds.
+the total loadtreetime tree time corresponding to 4000 files is : 4.272498 seconds.
+searching time of word[0]--Soufriere is 0.000627 seconds
+ searching time of word[1]--Department is 0.028165 seconds
+ searching time of word[2]--phylogeny is 0.004460 seconds
+ searching time of word[3]--shrinking is 0.000756 seconds
+ searching time of word[4]--monoclinic is 0.000254 seconds
+ average searching time  is 0.006852 seconds 
+ @@@@@@@@@@@############$$$$$$$$$$$woshihualidefenjiexian$$$$$$$$$$$############@@@@@@@@@@@
+
+the total loadtreetime tree time corresponding to 4000 files is : 4.226264 seconds.
+the total loadtreetime tree time corresponding to 4000 files is : 4.226264 seconds.
+searching time of word[0]--Soufriere is 0.000425 seconds
+ searching time of word[1]--Department is 0.021061 seconds
+ searching time of word[2]--phylogeny is 0.004443 seconds
+ searching time of word[3]--shrinking is 0.000628 seconds
+ searching time of word[4]--monoclinic is 0.000222 seconds
+ average searching time  is 0.005356 seconds 
+ @@@@@@@@@@@############$$$$$$$$$$$woshihualidefenjiexian$$$$$$$$$$$############@@@@@@@@@@@
+
+the total loadtreetime tree time corresponding to 4500 files is : 4.846068 seconds.
+the total loadtreetime tree time corresponding to 4500 files is : 4.846068 seconds.
+searching time of word[0]--Soufriere is 0.000392 seconds
+ searching time of word[1]--Department is 0.021164 seconds
+ searching time of word[2]--phylogeny is 0.005099 seconds
+ searching time of word[3]--shrinking is 0.000647 seconds
+ searching time of word[4]--monoclinic is 0.000229 seconds
+ average searching time  is 0.005506 seconds 
+ @@@@@@@@@@@############$$$$$$$$$$$woshihualidefenjiexian$$$$$$$$$$$############@@@@@@@@@@@
+
+the total loadtreetime tree time corresponding to 4500 files is : 5.016226 seconds.
+the total loadtreetime tree time corresponding to 4500 files is : 5.016226 seconds.
+searching time of word[0]--Soufriere is 0.000483 seconds
+ searching time of word[1]--Department is 0.026431 seconds
+ searching time of word[2]--phylogeny is 0.007018 seconds
+ searching time of word[3]--shrinking is 0.000938 seconds
+ searching time of word[4]--monoclinic is 0.000331 seconds
+ average searching time  is 0.007040 seconds 
+ @@@@@@@@@@@############$$$$$$$$$$$woshihualidefenjiexian$$$$$$$$$$$############@@@@@@@@@@@
+
+the total loadtreetime tree time corresponding to 5000 files is : 5.437722 seconds.
+the total loadtreetime tree time corresponding to 5000 files is : 5.437722 seconds.
+searching time of word[0]--Soufriere is 0.000601 seconds
+ searching time of word[1]--Department is 0.024238 seconds
+ searching time of word[2]--phylogeny is 0.004877 seconds
+ searching time of word[3]--shrinking is 0.001088 seconds
+ searching time of word[4]--monoclinic is 0.000261 seconds
+ average searching time  is 0.006213 seconds 
+ @@@@@@@@@@@############$$$$$$$$$$$woshihualidefenjiexian$$$$$$$$$$$############@@@@@@@@@@@
+
+the total loadtreetime tree time corresponding to 5000 files is : 5.488808 seconds.
+the total loadtreetime tree time corresponding to 5000 files is : 5.488808 seconds.
+searching time of word[0]--Soufriere is 0.000835 seconds
+ searching time of word[1]--Department is 0.033510 seconds
+ searching time of word[2]--phylogeny is 0.008214 seconds
+ searching time of word[3]--shrinking is 0.001900 seconds
+ searching time of word[4]--monoclinic is 0.000360 seconds
+ average searching time  is 0.008964 seconds 
+ @@@@@@@@@@@############$$$$$$$$$$$woshihualidefenjiexian$$$$$$$$$$$############@@@@@@@@@@@
+
